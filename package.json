@@ -1,0 +1,23 @@
+{
+  "name": "hello-fresh",
+  "version": "1.0.0",
+  "description": "### Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modster/hello-fresh.git"
+  },
+  "keywords": [],
+  "author": "E.M. Greeff <emgreeff@datadrivendashboards.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modster/hello-fresh/issues"
+  },
+  "homepage": "https://github.com/modster/hello-fresh#readme",
+  "dependencies": {
+    "sharp": "^0.30.7"
+  }
+}
